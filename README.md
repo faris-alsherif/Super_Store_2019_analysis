@@ -37,10 +37,10 @@ It visualizes sales, profit, cost, and discounts across different categories, re
 
 ## 📷 Preview
 **Overview Page**  
-![Overview Screenshot](Images/Screenshot%202025-10-24%20015016.png)
+![Overview Screenshot](Screenshot%202025-10-24%20015016.png)
 
 **Detailed Page**  
-![Detailed Screenshot](Images/Screenshot%202025-10-24%20015035.png)
+![Detailed Screenshot](Screenshot%202025-10-24%20015035.png)
 
 ---
 
