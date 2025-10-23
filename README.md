@@ -45,6 +45,6 @@ It visualizes sales, profit, cost, and discounts across different categories, re
 ---
 
 ## 👤 Author
-**Fares Alshareef**  
-Front-End Developer & Data Analyst  
+**Faris Alsherif**  
+Data Analyst  
 Passionate ab
